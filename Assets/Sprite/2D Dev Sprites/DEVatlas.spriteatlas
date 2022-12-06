@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DEVatlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 64cda65e94475d945a234b8976894f87, type: 3}
+    - {fileID: 102900000, guid: 15e7d40b4c0274a4fa9ec5874636e7ab, type: 3}
+    - {fileID: 102900000, guid: e375a8b08b0a0964382a5a4e58906c9a, type: 3}
+    totalSpriteSurfaceArea: 819200
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8a7c892013f3102438871a1562af51a0, type: 3}
+  - {fileID: 21300000, guid: ef93ad20c988c3749a7cefddec5dbd8a, type: 3}
+  - {fileID: 21300000, guid: 681dc6a07c33b73409189e0a42d9e4b6, type: 3}
+  - {fileID: 21300000, guid: 7ec2b5d01151554488bc3b2f9fd11d75, type: 3}
+  - {fileID: 21300000, guid: 265d07e0cad881046a30db3e7c25090c, type: 3}
+  - {fileID: 21300000, guid: db8dabf07e350b64fb9d6f8612f0330b, type: 3}
+  - {fileID: 21300000, guid: 8d6ce6728c56ed344b60ae53bdf123d4, type: 3}
+  - {fileID: 21300000, guid: 3aa6f8030b431b0499cd26993f5a717b, type: 3}
+  - {fileID: 21300000, guid: a4b20c04626b4d744abb22bbc2886e82, type: 3}
+  - {fileID: 21300000, guid: 115c9e05dbbb0eb43909619c82380157, type: 3}
+  - {fileID: 21300000, guid: a9ed0375e577d8a4c8eea5f67fbb0f59, type: 3}
+  - {fileID: 21300000, guid: 845fef7591ce91242994bc292ab90509, type: 3}
+  - {fileID: 21300000, guid: e6a6869576f6d374e8bafc0cb89b7bfb, type: 3}
+  - {fileID: 21300000, guid: 356c81064eab54e4c8b5476c7ce612fb, type: 3}
+  - {fileID: 21300000, guid: bad9ff0635f456544bf9db28acf21b4c, type: 3}
+  - {fileID: 21300000, guid: c85f2b468e04488419e8ce70ef4a4fc2, type: 3}
+  - {fileID: 21300000, guid: 0be3ad76a15f1dd4c8f5a9798560d168, type: 3}
+  - {fileID: 21300000, guid: a4184ca6ca510754cacbb4d239cf7128, type: 3}
+  - {fileID: 21300000, guid: 8e8963b6cbe1ba04db275a2492906554, type: 3}
+  - {fileID: 21300000, guid: 9a636ac6a08843b48a6c450ea080b645, type: 3}
+  - {fileID: 21300000, guid: e447f7070b1c26a4cab786ee42a5cac9, type: 3}
+  - {fileID: 21300000, guid: ab098a67d0e9fda4c95058f1855872db, type: 3}
+  - {fileID: 21300000, guid: bf808bf758905c04c9d229beb2940edd, type: 3}
+  - {fileID: 21300000, guid: 5ba917986d108f440953deb4f5ced876, type: 3}
+  - {fileID: 21300000, guid: ca5763a82f63c3a45905d0f889f24667, type: 3}
+  - {fileID: 21300000, guid: 4e56d3b8c1f5c8d479a8fa1c8e746847, type: 3}
+  - {fileID: 21300000, guid: 386b41c822ef31549808a42889624f81, type: 3}
+  - {fileID: 21300000, guid: 4fa51ec8ac209c04a9359c21651821b1, type: 3}
+  - {fileID: 21300000, guid: 810ab46b24fef2b498de92308747dd13, type: 3}
+  - {fileID: 21300000, guid: 389a1c9b35f81b546abf22c876a69e25, type: 3}
+  - {fileID: 21300000, guid: d6ccebcb9a2a9594f980bda944759e09, type: 3}
+  - {fileID: 21300000, guid: 8ce6ffeb1426dcc4f8e45f0ec5b1ea9a, type: 3}
+  - {fileID: 21300000, guid: 0145038dcb0d5a344ae057fb538e824c, type: 3}
+  - {fileID: 21300000, guid: 6fd7de0e7862e574bb2ae71805196c36, type: 3}
+  - {fileID: 21300000, guid: 4b93aaae72e9c29448455e5c170f573b, type: 3}
+  - {fileID: 21300000, guid: d5a50eceba317ff43ae1f4eeb12b97c5, type: 3}
+  - {fileID: 21300000, guid: 13f76d0ff7dfec3439ca66d9be7313c6, type: 3}
+  - {fileID: 21300000, guid: a34b792f95e1c7e4aa827ebb33c14d38, type: 3}
+  - {fileID: 21300000, guid: dce1da3fe3eee364d8f8788ab7740e2a, type: 3}
+  - {fileID: 21300000, guid: 6fed218f67ab7f340aec6f48d8c7897e, type: 3}
+  - {fileID: 21300000, guid: 1e598def6dc57a54a8d6b1db56906170, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Orange_Box64x64
+  - LightGrey_TrimmedBox128x128
+  - DarkGrey_Rect32x128
+  - DarkGrey_Rect64x128
+  - LightGrey__Combined
+  - LightGrey_Box128x128Measured
+  - LightGrey_Box128x128
+  - LightGrey_Rect32x64
+  - Orange_Rect64x128
+  - DarkGrey_Rect32x64
+  - Orange_TrimmedBox128x128
+  - DarkGrey_Angle128x128
+  - Orange__Combined
+  - Orange_Angle32x32
+  - Orange_TrimmedBox64x64
+  - Orange_Rect32x64
+  - DarkGrey_Angle64x64
+  - Orange_Angle64x64
+  - LightGrey_Angle128x128
+  - Orange_Box32x32
+  - LightGrey_Box32x32
+  - LightGrey_Box64x64Measured
+  - DarkGrey_Angle32x32
+  - Orange_Box64x64Measured
+  - DarkGrey_Box128x128Measured
+  - DarkGrey_TrimmedBox64x64
+  - LightGrey_Rect32x128
+  - DarkGrey_TrimmedBox128x128
+  - Orange_Angle128x128
+  - DarkGrey_Box32x32
+  - DarkGrey_Box128x128
+  - DarkGrey_Box64x64Measured
+  - LightGrey_Angle32x32
+  - LightGrey_Angle64x64
+  - Orange_Rect32x128
+  - Orange_Box128x128Measured
+  - DarkGrey_Box64x64
+  - Orange_Box128x128
+  - LightGrey_Box64x64
+  - LightGrey_Rect64x128
+  - LightGrey_TrimmedBox64x64
+  m_RenderDataMap: {}
+  m_Tag: DEVatlas
+  m_IsVariant: 0
